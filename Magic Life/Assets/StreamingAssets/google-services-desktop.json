@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438904310481",
+    "firebase_url": "https://magiclife-b01c6.firebaseio.com",
+    "project_id": "magiclife-b01c6",
+    "storage_bucket": "magiclife-b01c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438904310481:android:13c88a92c9368595e993f0",
+        "android_client_info": {
+          "package_name": "com.app.magiclife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438904310481-lt1ueosbia237cgsj5kp10d6je9ampk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtYGDXe_bcAJGgXfsI2TqwkTZHmA40b3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438904310481-lt1ueosbia237cgsj5kp10d6je9ampk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

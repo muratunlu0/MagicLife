@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bc0e0fd365ff86f49b7616abdef41fc2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Poppins ExtraBold
+  fontNames:
+  - Poppins ExtraBold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 281d90d332865b448bf6c14eee035145, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
